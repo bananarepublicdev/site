@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.bf0b5420.chunk.css",
+    "main.js": "/site/static/js/main.41e76d65.chunk.js",
+    "main.js.map": "/site/static/js/main.41e76d65.chunk.js.map",
+    "runtime-main.js": "/site/static/js/runtime-main.74f1a1e3.js",
+    "runtime-main.js.map": "/site/static/js/runtime-main.74f1a1e3.js.map",
+    "static/js/2.a83f3f41.chunk.js": "/site/static/js/2.a83f3f41.chunk.js",
+    "static/js/2.a83f3f41.chunk.js.map": "/site/static/js/2.a83f3f41.chunk.js.map",
+    "index.html": "/site/index.html",
+    "static/css/main.bf0b5420.chunk.css.map": "/site/static/css/main.bf0b5420.chunk.css.map",
+    "static/js/2.a83f3f41.chunk.js.LICENSE.txt": "/site/static/js/2.a83f3f41.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/site/static/media/menu_twitter_hover.8e664b98.svg",
+    "static/media/fried.a024fa94.svg": "/site/static/media/fried.a024fa94.svg",
+    "static/media/solana-banana-01.93b911eb.png": "/site/static/media/solana-banana-01.93b911eb.png",
+    "static/media/solana-banana-10.1a9c60db.png": "/site/static/media/solana-banana-10.1a9c60db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74f1a1e3.js",
+    "static/js/2.a83f3f41.chunk.js",
+    "static/css/main.bf0b5420.chunk.css",
+    "static/js/main.41e76d65.chunk.js"
+  ]
+}
